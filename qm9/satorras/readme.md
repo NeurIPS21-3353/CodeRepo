@@ -1,0 +1,1 @@
+This is a minimal and slightly updated version of the code provided here: https://github.com/vgsatorras/egnn 
